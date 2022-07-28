@@ -22,6 +22,10 @@ Quickly and easily build an HTML page to help keep track of and manage your team
 
 ---
 
+#### Example Page:
+
+[Example Web Page](https://millerchase.github.io/team-builder/)
+
 ## Installation
 
 Simply clone this repository through your preferred method. Then in side your cloned repository run the command 'npm i' to download all required packages
