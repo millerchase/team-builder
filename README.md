@@ -34,6 +34,14 @@ Simply clone this repository through your preferred method. Then in side your cl
 
 Navigate to the application via terminal, or open the application in your preferred IDE. Then simply run the command 'npm start' and follow the prompts to add your team. The HTML file will be available for use in the applications 'dist' folder, along with a connected stylesheet.
 
+
+
+
+https://user-images.githubusercontent.com/99565080/181419572-5105a1ca-b7e5-410c-8bfd-564dd8890a08.mp4
+
+
+
+
 ## Testing
 
 The application has been thoroughly tested with the use of Jest.
